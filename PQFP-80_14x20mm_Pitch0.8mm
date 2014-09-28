@@ -1,0 +1,58 @@
+Footprint name:
+PQFP-80_14x20mm_Pitch0.8mm
+Library name:
+Housings_QFP
+Footprint description:
+PQFP80 14x20 / QIP80E CASE 122BS (see ON Semiconductor 122BS.PDF)
+Footprint tags:
+QFP 0.8
+Package type:
+qfp
+Distance between vertical pads rows:
+16.3
+Distance between horizontal pads rows:
+22.3
+Land pattern X dimension (if above not specified):
+0
+Land pattern Y dimension (if above not specified):
+0
+Number of pads in horizontal axis:
+16
+Number of pads in vertical axis:
+24
+Pin pitch:
+0.8
+Pin dimension X:
+1.3
+Pin dimension Y:
+0.5
+Exposed pad X:
+0
+Exposed pad Y:
+0
+Exposed subdivision X:
+2
+Exposed subdivision Y:
+2
+Exposed pad solder paste ratio negative:
+-0.20
+Body dimension X:
+14
+Body dimension Y:
+20
+Pad shape:
+rect
+Empty:
+0
+Body height:
+2.7
+Overall width X:
+17
+Standoff:
+0.1
+Lead width:
+0.35
+Lead thickness:
+0.15
+Empty3:
+last_empty_line

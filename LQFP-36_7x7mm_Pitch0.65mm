@@ -1,0 +1,58 @@
+Footprint name:
+LQFP-36_7x7mm_Pitch0.65mm
+Library name:
+Housings_QFP
+Footprint description:
+LQFP36 7x7 / QFP36 CASE 561AV (see ON Semiconductor 561AV.PDF)
+Footprint tags:
+QFP 0.65
+Package type:
+qfp
+Distance between vertical pads rows:
+8.4
+Distance between horizontal pads rows:
+8.4
+Land pattern X dimension (if above not specified):
+0
+Land pattern Y dimension (if above not specified):
+0
+Number of pads in horizontal axis:
+9
+Number of pads in vertical axis:
+9
+Pin pitch:
+0.65
+Pin dimension X:
+1
+Pin dimension Y:
+0.43
+Exposed pad X:
+0
+Exposed pad Y:
+0
+Exposed subdivision X:
+2
+Exposed subdivision Y:
+2
+Exposed pad solder paste ratio negative:
+-0.20
+Body dimension X:
+7
+Body dimension Y:
+7
+Pad shape:
+rect
+Empty:
+0
+Body height:
+1.5
+Overall width X:
+9
+Standoff:
+0.1
+Lead width:
+0.3
+Lead thickness:
+0.15
+Empty3:
+last_empty_line

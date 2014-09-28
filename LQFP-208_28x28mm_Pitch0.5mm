@@ -1,0 +1,58 @@
+Footprint name:
+LQFP-208_28x28mm_Pitch0.5mm
+Library name:
+Housings_QFP
+Footprint description:
+LQFP208; plastic low profile quad flat package; 208 leads; body 28 x 28 x 1.4 mm (see NXP sot459-1_po.pdf and sot459-1_fr.pdf)
+Footprint tags:
+QFP 0.5
+Package type:
+qfp
+Distance between vertical pads rows:
+0
+Distance between horizontal pads rows:
+0
+Land pattern X dimension (if above not specified):
+31.3
+Land pattern Y dimension (if above not specified):
+31.3
+Number of pads in horizontal axis:
+52
+Number of pads in vertical axis:
+52
+Pin pitch:
+0.5
+Pin dimension X:
+1.5
+Pin dimension Y:
+0.4
+Exposed pad X:
+0
+Exposed pad Y:
+0
+Exposed subdivision X:
+2
+Exposed subdivision Y:
+2
+Exposed pad solder paste ratio negative:
+-0.20
+Body dimension X:
+28
+Body dimension Y:
+28
+Pad shape:
+rect
+Empty:
+0
+Body height:
+1.4
+Overall width X:
+30
+Standoff:
+0.1
+Lead width:
+0.23
+Lead thickness:
+0.15
+Empty3:
+last_empty_line

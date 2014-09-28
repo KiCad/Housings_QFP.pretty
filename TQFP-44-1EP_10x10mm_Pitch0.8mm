@@ -1,0 +1,58 @@
+Footprint name:
+TQFP-44-1EP_10x10mm_Pitch0.8mm
+Library name:
+Housings_QFP
+Footprint description:
+44-Lead Plastic Thin Quad Flatpack (MW) - 10x10x1.0 mm Body [TQFP] With 4.5x4.5 mm Exposed Pad (see Microchip Packaging Specification 00000049BS.pdf)
+Footprint tags:
+QFP 0.8
+Package type:
+qfp
+Distance between vertical pads rows:
+11.4
+Distance between horizontal pads rows:
+11.4
+Land pattern X dimension (if above not specified):
+0
+Land pattern Y dimension (if above not specified):
+0
+Number of pads in horizontal axis:
+11
+Number of pads in vertical axis:
+11
+Pin pitch:
+0.8
+Pin dimension X:
+1.5
+Pin dimension Y:
+0.55
+Exposed pad X:
+4.5
+Exposed pad Y:
+4.5
+Exposed subdivision X:
+4
+Exposed subdivision Y:
+4
+Exposed pad solder paste ratio negative:
+-0.20
+Body dimension X:
+10
+Body dimension Y:
+10
+Pad shape:
+rect
+Empty:
+0
+Body height:
+1
+Overall width X:
+12
+Standoff:
+0.1
+Lead width:
+0.37
+Lead thickness:
+0.15
+Empty3:
+last_empty_line

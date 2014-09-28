@@ -1,0 +1,58 @@
+Footprint name:
+TQFP-144_20x20mm_Pitch0.5mm
+Library name:
+Housings_QFP
+Footprint description:
+P/PG-TQFP-144-2, -3, -7 (see MAXIM 21-0087.PDF and 90-0144.PDF)
+Footprint tags:
+QFP 0.5
+Package type:
+qfp
+Distance between vertical pads rows:
+21.1
+Distance between horizontal pads rows:
+21.1
+Land pattern X dimension (if above not specified):
+0
+Land pattern Y dimension (if above not specified):
+0
+Number of pads in horizontal axis:
+36
+Number of pads in vertical axis:
+36
+Pin pitch:
+0.5
+Pin dimension X:
+1.45
+Pin dimension Y:
+0.25
+Exposed pad X:
+0
+Exposed pad Y:
+0
+Exposed subdivision X:
+2
+Exposed subdivision Y:
+2
+Exposed pad solder paste ratio negative:
+-0.20
+Body dimension X:
+20
+Body dimension Y:
+20
+Pad shape:
+rect
+Empty:
+0
+Body height:
+1
+Overall width X:
+22
+Standoff:
+0.1
+Lead width:
+0.22
+Lead thickness:
+0.15
+Empty3:
+last_empty_line
