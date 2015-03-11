@@ -2,10 +2,10 @@
   (descr "LQFP44 (see Appnote_PCB_Guidelines_TRINAMIC_packages.pdf)")
   (tags "QFP 0.8")
   (attr smd)
-  (fp_text reference LQFP-44_10x10mm_Pitch0.8mm (at 0 -7.65) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -7.65) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 7.65) (layer F.SilkS)
+  (fp_text value LQFP-44_10x10mm_Pitch0.8mm (at 0 7.65) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -6.9 -6.9) (end -6.9 6.9) (layer F.CrtYd) (width 0.05))
@@ -65,7 +65,7 @@
   (pad 42 smd rect (at -2.4 -5.85 90) (size 1.6 0.56) (layers F.Cu F.Paste F.Mask))
   (pad 43 smd rect (at -3.2 -5.85 90) (size 1.6 0.56) (layers F.Cu F.Paste F.Mask))
   (pad 44 smd rect (at -4 -5.85 90) (size 1.6 0.56) (layers F.Cu F.Paste F.Mask))
-  (model Housings_QFP/LQFP-44_10x10mm_Pitch0.8mm.wrl
+  (model Housings_QFP.3dshapes/LQFP-44_10x10mm_Pitch0.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

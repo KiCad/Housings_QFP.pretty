@@ -2,10 +2,10 @@
   (descr "128 Lead LQFP 14x14 mm (see MICREL LQFP14x14-128LD-PL-1.pdf)")
   (tags "QFP 0.4")
   (attr smd)
-  (fp_text reference LQFP-128_14x14mm_Pitch0.4mm (at 0 -9.2) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -9.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 9.2) (layer F.SilkS)
+  (fp_text value LQFP-128_14x14mm_Pitch0.4mm (at 0 9.2) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -8.45 -8.45) (end -8.45 8.45) (layer F.CrtYd) (width 0.05))
@@ -149,7 +149,7 @@
   (pad 126 smd rect (at -5.4 -7.7 90) (size 1 0.2) (layers F.Cu F.Paste F.Mask))
   (pad 127 smd rect (at -5.8 -7.7 90) (size 1 0.2) (layers F.Cu F.Paste F.Mask))
   (pad 128 smd rect (at -6.2 -7.7 90) (size 1 0.2) (layers F.Cu F.Paste F.Mask))
-  (model Housings_QFP/LQFP-128_14x14mm_Pitch0.4mm.wrl
+  (model Housings_QFP.3dshapes/LQFP-128_14x14mm_Pitch0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

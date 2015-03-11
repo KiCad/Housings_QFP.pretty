@@ -2,10 +2,10 @@
   (descr "LQFP 52 CASE 848H−01 (see ON Semiconductor 848H-01.PDF)")
   (tags "QFP 0.65")
   (attr smd)
-  (fp_text reference LQFP-52-1EP_10x10mm_Pitch0.65mm (at 0 -7.18) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -7.18) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 7.18) (layer F.SilkS)
+  (fp_text value LQFP-52-1EP_10x10mm_Pitch0.65mm (at 0 7.18) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -6.45 -6.45) (end -6.45 6.45) (layer F.CrtYd) (width 0.05))
@@ -105,7 +105,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 53 smd rect (at -1.8 -1.8) (size 1.2 1.2) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model Housings_QFP/LQFP-52-1EP_10x10mm_Pitch0.65mm.wrl
+  (model Housings_QFP.3dshapes/LQFP-52-1EP_10x10mm_Pitch0.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

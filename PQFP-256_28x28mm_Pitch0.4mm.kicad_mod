@@ -2,10 +2,10 @@
   (descr "PQFP256 28x28 / QFP256J CASE 122BX (see ON Semiconductor 122BX.PDF)")
   (tags "QFP 0.4")
   (attr smd)
-  (fp_text reference PQFP-256_28x28mm_Pitch0.4mm (at 0 -16.5) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -16.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 16.5) (layer F.SilkS)
+  (fp_text value PQFP-256_28x28mm_Pitch0.4mm (at 0 16.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -15.75 -15.75) (end -15.75 15.75) (layer F.CrtYd) (width 0.05))
@@ -277,7 +277,7 @@
   (pad 254 smd rect (at -11.8 -15 90) (size 1 0.26) (layers F.Cu F.Paste F.Mask))
   (pad 255 smd rect (at -12.2 -15 90) (size 1 0.26) (layers F.Cu F.Paste F.Mask))
   (pad 256 smd rect (at -12.6 -15 90) (size 1 0.26) (layers F.Cu F.Paste F.Mask))
-  (model Housings_QFP/PQFP-256_28x28mm_Pitch0.4mm.wrl
+  (model Housings_QFP.3dshapes/PQFP-256_28x28mm_Pitch0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

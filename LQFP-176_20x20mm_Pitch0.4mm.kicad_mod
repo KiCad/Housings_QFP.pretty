@@ -2,10 +2,10 @@
   (descr "LQFP 176 / LQFP176 CASE 566DB (see ON Semiconductor 566DB.PDF)")
   (tags "QFP 0.4")
   (attr smd)
-  (fp_text reference LQFP-176_20x20mm_Pitch0.4mm (at 0 -12.2) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -12.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 12.2) (layer F.SilkS)
+  (fp_text value LQFP-176_20x20mm_Pitch0.4mm (at 0 12.2) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -11.45 -11.45) (end -11.45 11.45) (layer F.CrtYd) (width 0.05))
@@ -197,7 +197,7 @@
   (pad 174 smd rect (at -7.8 -10.7 90) (size 1 0.23) (layers F.Cu F.Paste F.Mask))
   (pad 175 smd rect (at -8.2 -10.7 90) (size 1 0.23) (layers F.Cu F.Paste F.Mask))
   (pad 176 smd rect (at -8.6 -10.7 90) (size 1 0.23) (layers F.Cu F.Paste F.Mask))
-  (model Housings_QFP/LQFP-176_20x20mm_Pitch0.4mm.wrl
+  (model Housings_QFP.3dshapes/LQFP-176_20x20mm_Pitch0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
