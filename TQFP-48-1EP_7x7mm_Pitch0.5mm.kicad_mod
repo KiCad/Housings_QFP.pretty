@@ -1,4 +1,4 @@
-(module TQFP-48-1EP_7x7mm_Pitch0.5mm (layer F.Cu) (tedit 54130A77)
+(module TQFP-48-1EP_7x7mm_Pitch0.5mm (layer F.Cu) (tedit 58CC9A48)
   (descr "48-Lead Thin Quad Flatpack (PT) - 7x7x1.0 mm Body [TQFP] With Exposed Pad (see Microchip Packaging Specification 00000049BS.pdf)")
   (tags "QFP 0.5")
   (attr smd)

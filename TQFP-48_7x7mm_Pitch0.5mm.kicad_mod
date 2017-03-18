@@ -1,4 +1,4 @@
-(module TQFP-48_7x7mm_Pitch0.5mm (layer F.Cu) (tedit 54130A77)
+(module TQFP-48_7x7mm_Pitch0.5mm (layer F.Cu) (tedit 58CC9A48)
   (descr "48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)")
   (tags "QFP 0.5")
   (attr smd)

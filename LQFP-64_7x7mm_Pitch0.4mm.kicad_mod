@@ -1,4 +1,4 @@
-(module LQFP-64_7x7mm_Pitch0.4mm (layer F.Cu) (tedit 54130A77)
+(module LQFP-64_7x7mm_Pitch0.4mm (layer F.Cu) (tedit 58CC9A47)
   (descr "LQFP64: plastic low profile quad flat package; 64 leads; body 7 x 7 x 1.4 mm(see NXP sot414-1_po.pdf and sot414-1_fr.pdf)")
   (tags "QFP 0.4")
   (attr smd)
