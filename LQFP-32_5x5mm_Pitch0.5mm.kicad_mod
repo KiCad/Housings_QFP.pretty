@@ -1,4 +1,4 @@
-(module LQFP-32_5x5mm_Pitch0.5mm (layer F.Cu) (tedit 54130A77)
+(module LQFP-32_5x5mm_Pitch0.5mm (layer F.Cu) (tedit 58CC9A47)
   (descr "LQFP32: plastic low profile quad flat package; 32 leads; body 5 x 5 x 1.4 mm (see NXP sot401-1_fr.pdf and sot401-1_po.pdf)")
   (tags "QFP 0.5")
   (attr smd)

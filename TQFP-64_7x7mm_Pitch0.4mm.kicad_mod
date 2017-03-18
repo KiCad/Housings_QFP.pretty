@@ -1,4 +1,4 @@
-(module TQFP-64_7x7mm_Pitch0.4mm (layer F.Cu) (tedit 54130A77)
+(module TQFP-64_7x7mm_Pitch0.4mm (layer F.Cu) (tedit 58CC9A48)
   (descr "TQFP64 7x7, 0.4P CASE 932BH (see ON Semiconductor 932BH.PDF)")
   (tags "QFP 0.4")
   (attr smd)
