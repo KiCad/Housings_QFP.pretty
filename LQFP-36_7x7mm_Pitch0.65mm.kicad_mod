@@ -65,7 +65,7 @@
   (pad 34 smd rect (at -1.3 -4.2 90) (size 1 0.43) (layers F.Cu F.Paste F.Mask))
   (pad 35 smd rect (at -1.95 -4.2 90) (size 1 0.43) (layers F.Cu F.Paste F.Mask))
   (pad 36 smd rect (at -2.6 -4.2 90) (size 1 0.43) (layers F.Cu F.Paste F.Mask))
-  (model Housings_QFP.3dshapes/LQFP-36_7x7mm_Pitch0.65mm.wrl
+  (model ${KISYS3DMOD}/Housings_QFP.3dshapes/LQFP-36_7x7mm_Pitch0.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

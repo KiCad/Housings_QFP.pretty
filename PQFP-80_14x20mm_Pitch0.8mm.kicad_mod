@@ -109,7 +109,7 @@
   (pad 78 smd rect (at -4.4 -11.15 90) (size 1.3 0.5) (layers F.Cu F.Paste F.Mask))
   (pad 79 smd rect (at -5.2 -11.15 90) (size 1.3 0.5) (layers F.Cu F.Paste F.Mask))
   (pad 80 smd rect (at -6 -11.15 90) (size 1.3 0.5) (layers F.Cu F.Paste F.Mask))
-  (model Housings_QFP.3dshapes/PQFP-80_14x20mm_Pitch0.8mm.wrl
+  (model ${KISYS3DMOD}/Housings_QFP.3dshapes/PQFP-80_14x20mm_Pitch0.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

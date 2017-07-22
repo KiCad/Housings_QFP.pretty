@@ -285,7 +285,7 @@
   (pad 254 smd rect (at -11.8 -15 90) (size 1 0.26) (layers F.Cu F.Paste F.Mask))
   (pad 255 smd rect (at -12.2 -15 90) (size 1 0.26) (layers F.Cu F.Paste F.Mask))
   (pad 256 smd rect (at -12.6 -15 90) (size 1 0.26) (layers F.Cu F.Paste F.Mask))
-  (model Housings_QFP.3dshapes/PQFP-256_28x28mm_Pitch0.4mm.wrl
+  (model ${KISYS3DMOD}/Housings_QFP.3dshapes/PQFP-256_28x28mm_Pitch0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
