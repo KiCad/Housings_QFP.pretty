@@ -93,7 +93,7 @@
   (pad 62 smd rect (at -4.4 -7.7 90) (size 1.5 0.55) (layers F.Cu F.Paste F.Mask))
   (pad 63 smd rect (at -5.2 -7.7 90) (size 1.5 0.55) (layers F.Cu F.Paste F.Mask))
   (pad 64 smd rect (at -6 -7.7 90) (size 1.5 0.55) (layers F.Cu F.Paste F.Mask))
-  (model Housings_QFP.3dshapes/TQFP-64_14x14mm_Pitch0.8mm.wrl
+  (model ${KISYS3DMOD}/Housings_QFP.3dshapes/TQFP-64_14x14mm_Pitch0.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

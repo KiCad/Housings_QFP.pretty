@@ -161,7 +161,7 @@
   (pad 65 thru_hole circle (at 3.5 3.5 90) (size 0.3 0.3) (drill 0.2) (layers *.Cu F.Adhes))
   (pad 65 smd rect (at 0 0 180) (size 8 8) (layers B.Cu)
     (solder_mask_margin -4) (solder_paste_margin -4))
-  (model Housings_QFP.3dshapes/TQFP-64_10x10mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Housings_QFP.3dshapes/TQFP-64_10x10mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

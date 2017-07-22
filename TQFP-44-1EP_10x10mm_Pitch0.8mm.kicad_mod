@@ -105,7 +105,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 45 smd rect (at -1.6875 -1.6875) (size 1.125 1.125) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model Housings_QFP.3dshapes/TQFP-44-1EP_10x10mm_Pitch0.8mm.wrl
+  (model ${KISYS3DMOD}/Housings_QFP.3dshapes/TQFP-44-1EP_10x10mm_Pitch0.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
