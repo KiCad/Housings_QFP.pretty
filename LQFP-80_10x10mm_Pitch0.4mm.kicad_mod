@@ -1,5 +1,5 @@
 (module LQFP-80_10x10mm_Pitch0.4mm (layer F.Cu) (tedit 596FB44E)
-  (descr "LQFP80: plastic low profile quad flat package; 80 leads; body 10 x 10  mm (see NXP AN4388.pdf and wiznet W5100_Datasheet_v1.2.7.pdf)")
+  (descr "LQFP80: plastic low profile quad flat package; 80 leads; body 10 x 10  mm (see Intersil q80.10x10.pdf and wiznet W5100_Datasheet_v1.2.7.pdf)")
   (tags "QFP 0.4")
   (attr smd)
   (fp_text reference REF** (at 0 -7.5) (layer F.SilkS)
