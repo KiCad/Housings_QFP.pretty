@@ -5,7 +5,7 @@
   (fp_text reference REF** (at 0 -12.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value PQFP-112_20x20mm_Pitch0.65mm (at 0 12.5) (layer F.Fab)
+  (fp_text value PQFP-112_20x20mm_Pitch0.65mm (at 0 1.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 11.75 -11.75) (end 11.75 11.75) (layer F.CrtYd) (width 0.05))
